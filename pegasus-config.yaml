@@ -1,0 +1,45 @@
+default_context:
+  _pegasus_version: 2024.6.1
+  ai_chat_mode: llm
+  ai_image_mode: multiple
+  author_name: Toyuworks
+  ci: github_actions
+  css_framework: tailwind
+  css_theme: default
+  database: postgres
+  deploy_platform: none
+  description: The most amazing SaaS application the world has ever seen
+  docker_setup: arm64
+  domain_name: localhost:8000
+  email: tronmod@protonmail.com
+  enable_github_login: n
+  enable_google_login: n
+  enable_twitter_login: n
+  front_end_framework: htmx
+  include_static_files: y
+  marketing_email_platform: none
+  post_process: y
+  project_name: My SaaS App
+  project_slug: my_saas_app
+  standalone_front_end: none
+  stripe_payment_mode: checkout
+  subscription_billing_model: default
+  subscription_pricing_ui: in_app
+  use_2fa: y
+  use_admin_docs: n
+  use_api_auth: n
+  use_api_keys: y
+  use_async_example: y
+  use_cloud_media_storage: n
+  use_debug_toolbar: n
+  use_docker: y
+  use_ecommerce_example: y
+  use_examples: y
+  use_health_checks: n
+  use_impersonation: y
+  use_sentry: n
+  use_subscriptions: n
+  use_teams: n
+  use_teams_example: n
+  use_translations: y
+  use_wagtail: y
